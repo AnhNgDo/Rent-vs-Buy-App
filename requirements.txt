@@ -1,0 +1,5 @@
+mortgage==1.0.5
+streamlit==0.78.0
+pandas==1.2.3
+numpy==1.20.1
+matplotlib==3.3.4
